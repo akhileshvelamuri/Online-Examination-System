@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="OES_Updated">
+        
+    <wb-module deploy-name="Online-Examination-System">
+                
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="OES_Updated"/>
-        <property name="java-output-path" value="/OES_Updated/build/classes"/>
+                
+        <property name="java-output-path" value="/Online-Examination-System/build/classes"/>
+        <property name="context-root" value="Online-Examination-System"/>
+            
     </wb-module>
+    
 </project-modules>
